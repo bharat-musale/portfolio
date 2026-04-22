@@ -95,8 +95,8 @@ npm start
 ## 📫 Contact
 
 - GitHub: https://github.com/bharat-musale
-- LinkedIn: (add your link)
-- Email: (add your email)
+- LinkedIn: https://linkedin.com/in/bharat-musale24
+- Email: bharat.musale.in@gmail.com
 
 ---
 
